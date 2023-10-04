@@ -1,5 +1,4 @@
 import { MatchData } from '../MatchData';
-import { MatchResult } from '../MatchResult';
 import { Analyzer } from '../ReportGenerator';
 
 export class AverageGoalsAnalysis implements Analyzer {
